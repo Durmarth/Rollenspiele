@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abenteuer/Mietlinge/Währungen.md",
+                "file": "Abenteuer/Broken Tales/Spielerreglen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Währungen"
+              "title": "Spielerreglen"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abenteuer/Mietlinge/Währungen.md",
+                "file": "Abenteuer/Broken Tales/Spielerreglen.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Währungen"
+              "title": "Gliederung von Spielerreglen"
             }
           },
           {
@@ -196,6 +196,10 @@
   },
   "active": "0852485e4aa43c3d",
   "lastOpenFiles": [
+    "Abenteuer/Broken Tales/Iskra.md",
+    "Abenteuer/Broken Tales/a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png",
+    "Abenteuer/Broken Tales/Charaktere/---+Baba Yaga - die Kinderhexe.md",
+    "Abenteuer/Mietlinge/Währungen.md",
     "Abenteuer/Mietlinge/Aktionen.md",
     "Abenteuer/Mietlinge/Ablauf.md",
     "Abenteuer/Wilde Felder/1. Abend.md",
@@ -213,7 +217,6 @@
     "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Bilder/Pasted image 20251010232827.png",
     "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Bilder/Pasted image 20251022193113.png",
     "16.02.md",
-    "Abenteuer/Broken Tales/a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png",
     "2025-11-03.md",
     "ÄNDERUNGEN GIT.md",
     "Untitled 1.base",
@@ -233,10 +236,6 @@
     "Untitled.md",
     "Untitled.canvas",
     "Welcome.md",
-    "Abenteuer/Broken Tales/Iskra.md",
-    "Annika Geburtstag.md",
-    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/20.02.2026-2.4..md",
-    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Hamar Besuch im Tempel.md",
     "Abenteuer/Broken Tales/Charaktere",
     "Abenteuer/Broken Tales",
     "CSSsheets/headercolors.css",

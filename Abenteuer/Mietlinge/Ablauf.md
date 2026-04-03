@@ -1,0 +1,7 @@
+- Spieler im Uhrzeigersinn dran.  Können aber immer auch beim MItspieler aktiv werden, um ih zu unterstützen.
+- Spieler bewegen sich durch die Räume des Dungeons. Im Normalfall dauert es 2-3 Stunden
+- Spieler an der Reihe: [[Den nächsten Raum betreten]] ausführen. Spieler danach erfüllt die nächste Aufgabe, danach Dunarch, Nächster Spieler kommt als erstes in den Raum und kann die erste Aktion machen.
+- 
+- 
+- 
+- [[Währungen]] kann man immer wieder neu erhalten

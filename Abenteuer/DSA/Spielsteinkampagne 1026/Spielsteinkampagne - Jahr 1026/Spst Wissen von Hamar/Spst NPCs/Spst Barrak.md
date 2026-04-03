@@ -1,0 +1,1 @@
+Junge 16-17 aus [[Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Spst Orte/Spst Rallerquell]]

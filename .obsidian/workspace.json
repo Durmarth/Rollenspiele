@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "51242adcb1d269d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "80791d27cb9ec389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0852485e4aa43c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broken Tales/Iskra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iskra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd776accc3b9e7a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5fef51adde27920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7730ad3f8a8142d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "81cdd057d0f0e176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03e0bae16180f999",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "303660a6c518eab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d2786771421e4b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f93f66d8f2e15d66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Abenteuer/DSA/Juliankamapgne 1031/20.03.2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf 20.03.2026"
+            }
+          },
+          {
+            "id": "d59f50866e320afb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "97a5c9f36b854873",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f3b0bd4784a4579",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d39c9a0cc9229e80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "0852485e4aa43c3d",
+  "lastOpenFiles": [
+    "Annika Geburtstag.md",
+    "Broken Tales/Iskra.md",
+    "a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/20.02.2026-2.4..md",
+    "Pasted image 20260402231302.png",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Hamar Besuch im Tempel.md",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Alrikos.md",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Yalindra.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/2026.03.30.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/20.03.2026.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/21.12.2025.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/2026.03.26.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/26.02.2026.md",
+    "2025-11-03.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.base",
+    "Meer.pdf",
+    "Linkhierher.md",
+    "headers.css.md",
+    "16.02.md",
+    "An Samira.md",
+    "Ark Dinos.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/WICHTIG.md",
+    "Broken Tales/Charaktere/---+Die Frau aus den Wäldern.md",
+    "Broken Tales/Charaktere/---+Babai der Richter.md",
+    "Broken Tales/Charaktere/---+ Der unerreichte Flötenspieler ohne Namen.md",
+    "Broken Tales/Charaktere/---+Baba Yaga - die Kinderhexe.md",
+    "Broken Tales/Charaktere/---+Regina, Dieben der Herzen.md",
+    "Pasted image 20260320205552.png",
+    "Broken Tales/Charaktere",
+    "Broken Tales",
+    "Pasted image 20260201213842.png",
+    "Pasted image 20260201213007.png",
+    "file_000000000b3472439c8b51d2d5f6dbf5.webp",
+    "file_000000004c6c7246b07f4ecbe50d7e6b.webp",
+    "Pasted image 20251221191542.png",
+    "Pasted image 20251108130003.png",
+    "Pasted image 20251105205908.png",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "CSSsheets/headercolors.css",
+    "CSSsheets",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Turnier Weiden",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Spst Orte",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Spst NPCs"
+  ]
+}

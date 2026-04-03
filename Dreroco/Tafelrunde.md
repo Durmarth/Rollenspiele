@@ -1,0 +1,47 @@
+Dreieichcon:
+- großer fan von praefix? für den Rundenverkauf.
+- bester Verkauf: am Anfang, kurz am Ende
+	- komplett unterschätzt wie viele Leute kommen
+	- 2023 gutes Marketing
+	- 2024 geschlurt, da viel um die Ohren, nur Sophie viel gemacht. von 250 auf 350 gestiegen.
+	- 2025 alle Vollgas. Außerdem andere Nerdbubblen viel Werbung gemacht, hessischer Rundfunk kam vorbei, zuerst eins, dann 2 (eins hessenschau, dann social media), dann hat ein influencer bei HR3 angerufen und die dazu gebracht Werbung zu machen.
+	- Tag später hat eine Mutter angerufen. "Mein Sohn ist 15, macht PnP, sie ist Jahrgang 72, spielt auch, hat es im Radio gehört und sie fahren dahin."
+	- Notbremse ziehen, da Tageskarten noch viele wären.
+		- Daher: Samstags keine Tagestickets danach gemacht, also Leute die in einer Runde waren, aber kein Ticket hatten. -> Probleme.
+		- Mit Absicht den gesamten Tagesticketverkauf am Samstag geschrottet.
+		- Platz im Hauptgebäude ausgegangen.
+		- Probleme mit Fluchtwege, Brandschutz, Sicherheit, Haftung, daher absichtlich stark alles reduziert.
+		- Orangener Bereich: Für anderthalb 1000 Leute vor 2-3 Jahren? jetzt alles.
+		- Konzept war nicht darauf ausgelegt, dass so viele Leute kommen. "Lieber Unmut als etwas, das nicht verantwortlich ist."
+		- 375 vorangemeldete +15 spontan runden, nicht 400 wie gewünscht geschafft (Nordcon 190?)
+		- Fläche verdoppelt
+		- sehr viel an andere Orgas ausgelagert, aber trotzdem zu wenig Ressourcen gehabt. (mehrere komplett andere Teams dabei)
+	- Rückmeldungen: sehr, sehr positiv ("Lurch und Lama" anschauen!), da stimmt aber "Planen für 4000" stimmt nicht.
+	- Nicht kleiner werden, aber neu ausrichten. RTW vor Ort?
+	- Infrastruktur muss nachgebaut werden.
+	- sie zählen immer Personen, nicht Personentage
+	- nicht genug Zeit, da zu viel zu tun war und daher war er nicht in allen Räumen
+	- können nicht viel weiter wachsen (eine Sporthalle und Schulen in Fußreichweite?)
+	- Team von Bibliothek, aus Lehrern... 120 nur eigenes Team + dragon legion + vorbereitete Schüler... 150 Leute im Team.
+	- sicher deckeln, sonst wird es zu einer Messe/Festival und nicht mehr Con.
+	- sie haben gute Kontakte zu gamesworkshop, bookschneider?... eine schule komplett larp, eine komplett tabletop. Aber das ist nicht das Ziel, da dann alle getrennt sind und Ziel ist es sie zusammen zu bringen.
+	- england: dragonmeet. 4000 Leute, ein Tag. Kein Larp, hauptsächlich TTRPG
+- endemol: "anruf, musste sofort ja/nein sagen". Hat sich so entschieden, es hatte immer einer sie im Blick und ist in ihrer Nähe geblieben. Sie haben sich aber benommen. Da Safespace wichtig war. Einweisung über sehr, sehr enge Grenzen. (beauty and the nerd)
+	- Waren nur im Contentcreaterbereich
+	- Sie haben niemanden angesprochen, wurden kaum angesprochen
+	- Fernsehsendung ala Bauer sucht Frau
+	- gab Kritik dass sie eine Bühne hatten.
+	- vorher gefragt, dann vermutlich nicht.
+	- Frage war aber am Donnerstag direkt davor.
+	- Problem ist nicht was sie getan ode rnicht getan haben, sondern was Leute sich vorstellen. Und das ist ein ruftechnisches Risiko.
+	- FAZ hat angefragt.
+	- Bürgermeister ist zum dritten Jahr der Schirmherr
+	- Ausblick:
+		- Nächstes Jahr besser von Infrastruktur positionieren.
+		- Mehr Leute von anderen Cons anfragen wie sie helfen können.
+		- Dreieich-Nordteam, was sich um den Norden kümmert (ein Dutzend Leute)
+		- vmtl. Bavaria Con zweitgrößte Con? Dreieichcon unterstützt sie, da es wichtig ist mehrere große Cons zu haben. Ziel ist es pro ballungsgebiet was großes zu haben (Nordcon, Dreieichcon, Bayerncon... zu haben), nicht eine riesige nur an einem Ort.
+	- Jeder soll ihn fragen, auch kleine Cons (wie wir)
+	- keine Zahlen veröffentlichen, da sonst Streit "es hätten ja noch Leute reingepasst", hätte aber von dem Team nicht gepasst.
+- während corona hat einer geschimpft "was fällt euch ein es nicht zu machen. Wenn ich sterbe, dann ist es ja mein Problem."
+- Marc | DisplacerCon wegen Ping beim Server anfragen, evtl. auch Tickets verlosen?

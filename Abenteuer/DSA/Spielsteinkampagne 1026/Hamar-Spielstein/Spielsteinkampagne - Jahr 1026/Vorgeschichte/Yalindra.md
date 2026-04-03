@@ -1,0 +1,3 @@
+Elenvina - Hesindestudentin:
+Thema für Kuslik:
+- Wissen sie, mich haben die Drachen als uralte Wissenshüter schon immer fasziniert. Ihre Verbindung zu Hesinde, die nicht zuletzt durch die Draconiter hervorgehoben wird, ist wie ein Meer aus Fakten, deren pure Masse für Menschen ungreifbar sind. Ich hoffe, dass ich in meinem Leben der Menschheit zumindest einen Ausblick in in diese Welt geben kann. Gerade lese ich ein hier ein Buch über Naclador. Das Buch haben sie bestimmt auch schon gelesen, es ist eine spannende Lektüre über die Betrachtung Nacladors als den Gefährten Hesindes

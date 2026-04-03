@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broken Tales/Iskra.md",
+                "file": "16.02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iskra"
+              "title": "16.02"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Website",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abenteuer/DSA/Juliankamapgne 1031/20.03.2026.md",
+                "file": "16.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 20.03.2026"
+              "title": "Rückverweise auf 16.02"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "16.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Ausgehende Links von 16.02 öffnen"
             }
           },
           {
@@ -147,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alle Eigenschaften"
             }
           },
           {
@@ -156,24 +157,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
-                "followCursor": false,
+                "file": "16.02.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Gliederung von 16.02"
+            }
+          },
+          {
+            "id": "89b6b5e28efaf261",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -183,13 +195,36 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0852485e4aa43c3d",
+  "active": "d39c9a0cc9229e80",
   "lastOpenFiles": [
+    "Abenteuer/Broken Tales/a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png",
+    "2025-11-03.md",
+    "ÄNDERUNGEN GIT.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "headers.css.md",
+    "Bilder/file_0000000048507246a9ec7acd46611b09_1.webp",
+    "Bilder/Pasted image 20251108153245.png",
+    "Bilder/file_00000000b7c07246b877da230aff5774.webp",
+    "Bilder",
+    "Bilder/file_00000000bc24720a86a3c6b0b35ea33c.webp",
+    "Bilder/file_00000000e740720ab880d4b28fa1e7a8.webp",
+    "Bilder/Pasted image 20251221191542.png",
+    "Meer.pdf",
+    "Linkhierher.md",
+    "Bilder/file_000000004c6c7246b07f4ecbe50d7e6b.webp",
+    "Ark Dinos.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Bilder/Pasted image 20260201213842.png",
+    "Bilder/Pasted image 20260201213007.png",
+    "Bilder/Pasted image 20251229152645.png",
+    "Welcome.md",
+    "Abenteuer/Broken Tales/Iskra.md",
     "Annika Geburtstag.md",
-    "Broken Tales/Iskra.md",
-    "a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png",
     "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/20.02.2026-2.4..md",
-    "Pasted image 20260402231302.png",
     "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Hamar Besuch im Tempel.md",
     "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Alrikos.md",
     "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Vorgeschichte/Yalindra.md",
@@ -198,38 +233,16 @@
     "Abenteuer/DSA/Juliankamapgne 1031/21.12.2025.md",
     "Abenteuer/DSA/Juliankamapgne 1031/2026.03.26.md",
     "Abenteuer/DSA/Juliankamapgne 1031/26.02.2026.md",
-    "2025-11-03.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled.base",
-    "Meer.pdf",
-    "Linkhierher.md",
-    "headers.css.md",
     "16.02.md",
-    "An Samira.md",
-    "Ark Dinos.md",
+    "Abenteuer/DSA/Spielsteinkampagne 1026/An Samira.md",
     "Abenteuer/DSA/Juliankamapgne 1031/WICHTIG.md",
-    "Broken Tales/Charaktere/---+Die Frau aus den Wäldern.md",
-    "Broken Tales/Charaktere/---+Babai der Richter.md",
-    "Broken Tales/Charaktere/---+ Der unerreichte Flötenspieler ohne Namen.md",
-    "Broken Tales/Charaktere/---+Baba Yaga - die Kinderhexe.md",
-    "Broken Tales/Charaktere/---+Regina, Dieben der Herzen.md",
-    "Pasted image 20260320205552.png",
-    "Broken Tales/Charaktere",
-    "Broken Tales",
-    "Pasted image 20260201213842.png",
-    "Pasted image 20260201213007.png",
-    "file_000000000b3472439c8b51d2d5f6dbf5.webp",
-    "file_000000004c6c7246b07f4ecbe50d7e6b.webp",
-    "Pasted image 20251221191542.png",
-    "Pasted image 20251108130003.png",
-    "Pasted image 20251105205908.png",
-    "Untitled.canvas",
-    "Untitled 1.base",
+    "Abenteuer/Broken Tales/Charaktere/---+Die Frau aus den Wäldern.md",
+    "Abenteuer/Broken Tales/Charaktere/---+Babai der Richter.md",
+    "Abenteuer/Broken Tales/Charaktere",
+    "Abenteuer/Broken Tales",
     "CSSsheets/headercolors.css",
     "CSSsheets",
     "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Turnier Weiden",
-    "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Spst Orte",
-    "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Spst NPCs"
+    "Abenteuer/DSA/Spielsteinkampagne 1026/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Spst Orte"
   ]
 }

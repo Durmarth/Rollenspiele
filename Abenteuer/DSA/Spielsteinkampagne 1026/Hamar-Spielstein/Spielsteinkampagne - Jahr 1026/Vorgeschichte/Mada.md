@@ -1,0 +1,12 @@
+Vorwort:
+- Mada gibt viele Rätsel auf
+- Wesen der Mondgöttin zu verstehen ist schwer
+- Vademecum: geschrieben im Namen der Midora Quendillion (wurde 1045 geschrieben)
+- Andere 12 göttliche Kirchen: meist klare Strukturen, Verehrungsformen und schriftlich niedergelegte Grundsätze
+- Kult der Mada ist uneinheitlich, bisweilen widersprüchlich
+- Anhängerschaft ist vielfältig, genau wie die unterschiedlichen Sichtweisen auf das Wesen der Göttin und die angemessene Form der Verehrung (Vgl. mit Phex?)
+- es gibt nur wenige Quellen+Wesen der MAda ist es wohl als gefesselte Götting vage und interpretationsbedürftig zu bleiben.+
+- Midora ist eine Hesindemystikerin, die mit dem Madakult sympathisiert, ohne selbst eine Priesterin dort zu sein. Ihr Einblick ist also wohlwollend für die Mondgöttin und ihre Priester, andererseits jedoch auch eine kritisch-hinterfragende Perspektive
+- Seite 8 über den gütigen Herrn Praios
+- In der Nacht blickt die Halbgöttin Mada auf uns herab (vor Äonen an den Himmel gebannt) und dient als ein Anblick der gerechte Macht Praios, doch wir verstehen vieles nicht.
+- Einig: Magie in die Welt gebracht und ihr dafür die Freiheit genommen

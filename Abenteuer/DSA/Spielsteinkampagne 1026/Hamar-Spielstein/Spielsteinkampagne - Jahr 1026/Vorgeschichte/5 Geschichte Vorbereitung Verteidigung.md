@@ -4,7 +4,7 @@ Sie schüttelte den, Kopf ungläubig, dass sie das Gespräch schon wieder führe
 
 Hamar schaute sie mehrere Sekunden an. Sein Kopf ging die Gedanken nicht nur einmal durch. Zwei Mal... drei Mal... Vier Mal... Vielleicht hätte er in den letzten Wochen doch mehr als ein paar Stunden pro Tag schlafen sollen, der Mangel an Ruhe rächte sich nun.
 "Ich rede doch mit Geweihten.", murrte er mit monotoner, emotionsloser Stimme. "Wenn ich irgendwo nicht bei Null anfangen "soll, dann doch dort. Ein paar Grundlagen über Mada sollte ich doch dort voraussetzen können."
-"Ja, aber du interpretierst hier verschiedene Überlieferungen, du musst doch erklären, welche Überlieferung-"
+"Ja, aber du interpretierst hier verschiedene Überlieferungen, du musst doch erklären, welche Überlieferung -"
 "Das ergibt sich doch sofort aus dem Zusammenhang. Hier sage ich im zweiten Absatz eindeutig, dass sie als Tochter des Fuchses bezeichnet wurde. Daher geht es hier darum, dass sie _keine_ Tochter eines Menschen ist, sondern zweier Götter, während hier... zwei Absätze weiter, sage ich, dass sie mit ihren Geliebten ewig flink und listig ihr Vorgehen geplant hat. Also geht es hier nicht mehr um die Überlieferung, dass sie sie Phexs Tochter ist, sondern sie ein Paar waren."
 Hamar deutete genervt auf verschiedene Bereiche seiner Arbeit und murrte weiterhin unwirsch. "Das sollte man doch verstehen können."
 

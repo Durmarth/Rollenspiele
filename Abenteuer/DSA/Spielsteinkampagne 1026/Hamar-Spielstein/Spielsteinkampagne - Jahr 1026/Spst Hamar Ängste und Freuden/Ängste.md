@@ -5,3 +5,4 @@
 5. Er ist alleine ohne Familie und Freunde.
 6. Ungewollte Berührungen
 7. Dunkelheit... Schwärze, blind zu werden
+8. 

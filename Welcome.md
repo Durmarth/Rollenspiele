@@ -19,7 +19,7 @@ Abstreichen:
 ![[Pasted image 20260201213842.png]]
 
 
-klare Zahlungsfrist (2 Wochen/4 Wochen)
+
 
 
 421412

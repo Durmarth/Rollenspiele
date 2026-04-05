@@ -1,6 +1,6 @@
-"Nein, nein Hamar, du musst weiter vorne anfangen", stöhnte Yalindra genervt auf, während sie ein Pergament mit einem sauberen und sehr klein geschriebenen Text in der Hand hielt. "Wenn du in Kuslik überzeugen willst, darfst du nicht mitten drin anfangen."
-Sie schüttelte den, Kopf ungläubig, dass sie das Gespräch schon wieder führen mussten.
-"Und du solltest diene Ansicht etwas... entschärfen. Du kommst aus Elenvina, Magie ist hier sowieso bereits verpöhnt. Was willst du damit erreichen? Dass die Praioskirche den Magieerlass auf ganz Aventurien ausbreitet und die ganze Satoriströmung verbietet?! Wenn du das hier so in einem Praiostempel vorträgst, wirst du nicht weiter als die ersten 10 Minuten kommen!"
+"Nein, nein Hamar, du musst weiter vorne anfangen", stöhnte Yalindra genervt auf, während sie ein Pergament mit einem sauberen und sehr klein geschriebenen Text in der Hand hielt. "Wenn du in Kuslik überzeugen willst, darfst du nicht mittendrin anfangen."
+Sie schüttelte den Kopf ungläubig, dass sie das Gespräch schon wieder führen mussten.
+"Und du solltest diene Ansicht etwas... entschärfen. Du kommst aus Elenvina, Magie ist hier sowieso bereits verpönt. Was willst du damit erreichen? Dass die Praioskirche den Magieerlass auf ganz Aventurien ausbreitet und die ganze Satoriströmung verbietet?! Wenn du das hier so in einem Praiostempel vorträgst, wirst du nicht weiter als die ersten 10 Minuten kommen!"
 
 Hamar schaute sie mehrere Sekunden an. Sein Kopf ging die Gedanken nicht nur einmal durch. Zwei Mal... drei Mal... Vier Mal... Vielleicht hätte er in den letzten Wochen doch mehr als ein paar Stunden pro Tag schlafen sollen, der Mangel an Ruhe rächte sich nun.
 "Ich rede doch mit Geweihten.", murrte er mit monotoner, emotionsloser Stimme. "Wenn ich irgendwo nicht bei Null anfangen "soll, dann doch dort. Ein paar Grundlagen über Mada sollte ich doch dort voraussetzen können."

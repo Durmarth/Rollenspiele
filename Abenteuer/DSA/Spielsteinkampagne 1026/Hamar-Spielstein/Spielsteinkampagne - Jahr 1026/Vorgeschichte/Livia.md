@@ -1,0 +1,1 @@
+- Geweihte, die ihn im Tempel aufgenommen hat.

@@ -1,0 +1,14 @@
+## Erzählweise
+- Man erzählt immer in der Vergangenheitsform und in der dritten Person
+- JEder benötigt einen sechsseitigen Würfel und einen zweiten für die Kältemarker
+- Charaktererstellung:
+	- Name?
+	- Konzept? (Kind, Geistlicher, Costable, verrückter alter Spinner, usw.)
+	- Motiv, warum man in den Wald geht.
+- Mechanik:
+	- immer wenn was schlimmes passiert, erhält man einen Kältemarker.
+	- SL stellt eine "Ja, Nein Frage" (z.B. Hörst du was?)
+		- Würfle! Wenn du mehr als deine Kältemarker würfelst, dann antwortest du mit ja. Bei kleiner gleich nein.
+		- Ja muss immer gut, nein immer schlecht sein.
+		- Ab 6 ist man aus dem Spiel raus.
+		- 

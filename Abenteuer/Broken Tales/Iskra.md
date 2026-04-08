@@ -17,6 +17,9 @@ Iskra (10)
 - Sie verfolgte dann den Geruch ihrer Mutter. In der Nacht will sie ihre Mutter töten.
 
 # Beginn der Geschichte:
+- Mehrere Tage seid ihr unterwegs. Ihr wurdet zu einem Dorf Durfort geschickt - angeblich soll es dort Monster geben, die des Nachts Bewohner außerhalb der Mauern anfallen. Auf dem Weg dorthin hört ihr immer wieder Geschichten, dass in den letzten Tagen der Handel mit dem Dorf zum Erliegen kommt, viele sich nicht mehr trauen dorthin zu kommen. Ebenfalls erfahrt ihr, dass früher... unter Patrick Dubois das Dorf von einem unbedeutenden kleinen Ort zu einem Zentrum aufgestiegen ist. Ein riesiger Palast wurde gebaut und viele Händler zogen nach Durfort. Doch sein Sohn, Gerard Dubois, hat kaum etwas getan. Seit er Elizaveta geheiratet hat, finden immerhin wieder häufiger Bälle und große Feierlichkeiten statt und Patrick Gerard nimmt seine Aufgaben als Baron etwas ernster.
+Ihr kommt kurz vor Sonnenuntergang bei der Stadt an. Die Wachen lassen euch noch ungeduldig in das Dorf und schließen direkt hinter euch das Tor. Ihr werdet zum großen Palast geführt - ein Gebäude, das den Reichtum und den erfolgreichen Handel des Patrick Dubois symbolisiert.
+Vor euch steht nun ein großes Tor und nach kurzem Klopfen öffnet euch ein alter Butler, der euch kurz mustert und dann hinein bittet. "Ihr müsst die gerufenen Jäger sein. Der werte Herr erwartet euch in der Zeremoniehalle".
 - Platz: Zeremoniehalle im Palast, große Schränke aus altem Holz, ein Kronleuchter und  ein riesiges Bild von Patrick Dubois, Gerards Vater. Dubois scheint streng und verächtlich auf die Unfähigkeit seines Sohnes herabzuschauen.
 - Zeit: Vor 2 Stunden ging die Sonne unter.
 - Situation: Gerard ist verängstigt und will, dass die Jäger sofort anfangen. Elizaveta ist still und überlegt, wie sie die Jäger benutzen kann. Sie redet mit einem der Dorfbewohner. Vincent, ihre Wache, ist auch da.
@@ -32,6 +35,7 @@ Iskra (10)
 	- Ein großer Palast, mehr als 100 Räume, sehr reich.
 	- Würfel: 1-2: Exzellenter Wein und das beste Fleisch, 3-4: Geheimweg zwischen dem Innenhof und dem Speisesaal, 5-6 Jeder Raum hat Bilder von Patrick Dubois
 - NPCs:
+	- Butler Jean
 	- Gerard Dubois (easy 3, 1 Wunde)
 		- Mein Wort ist Gesetz. Ich lebe unter dem Schatten meines Vaters
 		- Ziel: Ich will die Wölfe loswerden und alles Negative unter den Tisch kehren.
@@ -42,7 +46,7 @@ Iskra (10)
 		- Gekonnter Jäger: Ich tue was gebrauchtw ird. Ich genieße ein gutes Leben ohne har tzu arbeiten.
 		- Ziel: Ich weiß, wer den Haushalt hier bestimmt. Ich tue was Elizaveta will.
 		- Veteran: Sind mindestens 2 Soldaten bei ihm, kann Vincent 1 zstzl. Wunde verursachen und jeder erhält gegen ihn einen Straferfolg.
-	- Wächter: (5,1)
+	- Wächter: (5,1) 
 		- Wir folgen Vincent
 # Storyevents
 ## Mehr als 1 Tag:

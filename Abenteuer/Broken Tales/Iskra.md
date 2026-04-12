@@ -1,5 +1,7 @@
-Das kleine Dort Durfort in Gevaudan, Frankreich wird von wilden Bestien Heimgesucht.
-- Gerard Dubois, Baron, kürzlich mit der wunderschönen Elizaveta von Volhynia verheiratet, erhält ständig Meldungen überneue Überfälle. Lord Gerard hat geschrieben "Die Bestien, werte Eminenz, sind nicht natürlichen Ursprungs und werden von etwas anderem als Gott angetrieben."
+"Junge: Man sieht sich immer zwei Mal im Leben"
+
+Das kleine Dort Durfort in Gevaudan, Frankreich wird von wilden Bestien heimgesucht.
+- Gerard Dubois, Baron, kürzlich mit der wunderschönen Elizaveta von Volhynia verheiratet, erhält ständig Meldungen über neue Überfälle. Lord Gerard hat geschrieben "Die Bestien, werte Eminenz, sind nicht natürlichen Ursprungs und werden von etwas anderem als Gott angetrieben."
 Elizaveta von Volhynia
 - hat schön blau leuchtende Augen, die sofort auffallen
 - war schon immer attraktiv, war die reichen Salons gewöhnt und noble Liebhaber.
@@ -64,63 +66,63 @@ Anastazia kontaktiert sie, Vision von Iskra als Kind, wie sie auf einer Lichtung
 - Voice of the spirits: (du hast einmal mit den Geistern geredet) Man kann für 1 Soma mit Geistern reden, ohne die Wunde zu erhalten.
 - Wolfskiller: (Wolfskiller) Du hast einmal gegen die Wölfe gekämpft -  Wenn du gegen mehrere Wölfe kämpfst und bei einem Verteidigungswurf mindestens einen normalen Erfolg hast, kannst du sofort einen Wolf mit 1 Wunde töten.
 - Wohin gehst du meine Süße? (für Garou den alten Wolf: muss Iskra getroffen haben - einmal pro Szene kannst du 1 Soma ausgeben, um zu wissen wo sie ist, du willst sie töten, dieses Mädchen was so handelt und so riecht wie ein Wolf. Du erhältst +1 Erfolg, wenn du versuchst ihr zu schaden. Wenn sie anwesend ist, erhältst du -1 Erfolg auf alle Verteidigungswürfe)
-# Orte und NPC:
-- Dorf Durfort:
-	- Reicher Ort, große Häuser, jeder erinnert sich an den vorherigen Baron Patrick Dubois
-		- Anne, das kleine Plaudermädchen (5,1)
-			- Elizaveta gibt mir viele Geschenke, damit ich mich hier umschaue und ihr alles sage, was ich höre
-		- Nicholas, der Jäger (5,1)
-			- Ich will vor Baron Gerard angeben und ich weiß wie wild Wölfe sind.
-		- Genevieve, die Chemikerin (3,1)
-			- Ich entkam meiner Vergangenheit voller Hexerei. Ich weiß wie man Geister beschwört und mit ihnen redet.
-		- Marcel, der junge Zeitvertrödeler (3,1)
-			- Ich geh viel spazieren. Einst sah ich ein kleines Mädchen draußen im Wald, aber niemand hat mir geglaubt.
-		- Corinne, die Hausfrau (3,1)
-			- Ich kenne die Gerüchte in dem Dorf, größtenteils, weil ich sie selbst gestreut habe. Ich mag Geschenke und bin leicht echauffiert.
-		- Didier, grmpy old man (5,1)
-			- Ich hasse alle Fremdem und vermisse den alten Baron. Er wusste wie man für sich einsteht. Der neue Gerard, der einfach irgendeine Fremde hier geheiratet hat!
-- Der Wald
-	- viele große Bäume, natürliche Wege
-	- es gibt eine Lichtung, ca. 1 Stunde von Durfort entfernt. Große arkane Kraft gibt es dort!
-		- Jede magische Fertigkeit erhält 1 zusätzlichen Erfolg. 
-		- Für jede Stunde hier muss man 1 Soma oder 1 Wunde erhalten.
-		- Bei Ankunft Wurf: 
-			- 1-3: Lichtung ist leer, aber es gibt Spuren von Wölfen und Knochen. Nach kurzer Zeit kommen 8 schwarze Wölfe.
-			- 4-5: Man sieht dort Greskar und 8 schwarze Wölfe
-			- 6: Iskra ist dort. Tagsüber alleine, nachts mit 4-5 Wölfen
-			- Nachts: füge +2 hinzu
-	- Der alte Friedhof
-		- verrostete Gatter, steinerne Gräber
-		- In der Mitte ist eine verlassene alte Kirche.
-		- Ebenso ist hier ein alter Brunnen (man kann hier einen Anhänger finden -> Anastazia gibt Visionen von Elizaveta, wie sie mit roten Händen zum Brunnen geht und versucht sich dort die Hände zu waschen(farbe geht nicht ab)
-		- Man sieht viele Spuren von Wölfen. Ebenso Spuren von einem barfüßigen, kleinen Kind. Die Spuren führen tiefer in den Wald (zum Lager)
-		- Würfel:
-			- 1-3: 8 Wölfe
-			- 4-5 8 Wölfe+Greskar
-			- 6: 8 Wölfe + Iskra
-			- 5-6 Eine Gruppe Banditen. Ihr Anführer Jozef, ist ein früherer Geliebter von Elizaveta und weiß von ihrer Vergangenheit. Die Gruppe will sich im Dorf ausruhen, aber nicht auffallen.
-	- Das Lager der Wölfe
-		- Eine große Höhle voller TUnnel und kleiner Räume, weniger als 3 Stunden entfernt. 
-		- Tagsüber rasten hier überall Wölfe. Nachts fast leer.
-		- Verteidigung: Ohne seinen Geruch zu verbergen, merken sie es früh. Am Anfang jeder Szene muss man einen mittleren Verteidigungswurf schaffen (5), ansonsten nachts 1d6, tags 2d6 Wölfe.
-		- Wurf bei jeder Szene ODER in der Reihenfolge:
-			- 1-2 Iskras Lager: Sauber, an der Wand sieht man eine Mutter, wie sie die Hand ihrer Tochter hält, alles in Blut gemalt.
-			- 3-4 Gefangener, gebrochene Beine. Evtl. einer aus dem Dorf?
-			- 5 Lauter Knochen und menschliche Körper
-			- 6  ein langer Tunnel in Richtung der Stadt (Brunnen auf dem Marktplatz)
-			- ![[a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png]]
+# Orte:
+## Dorf Durfort:
+- Reicher Ort, große Häuser, jeder erinnert sich an den vorherigen Baron Patrick Dubois
+	- Anne, das kleine Plaudermädchen (5,1)
+		- Elizaveta gibt mir viele Geschenke, damit ich mich hier umschaue und ihr alles sage, was ich höre
+	- Nicholas, der Jäger (5,1)
+		- Ich will vor Baron Gerard angeben und ich weiß wie wild Wölfe sind.
+	- Genevieve, die Chemikerin (3,1)
+		- Ich entkam meiner Vergangenheit voller Hexerei. Ich weiß wie man Geister beschwört und mit ihnen redet.
+	- Marcel, der junge Zeitvertrödeler (3,1)
+		- Ich geh viel spazieren. Einst sah ich ein kleines Mädchen draußen im Wald, aber niemand hat mir geglaubt.
+	- Corinne, die Hausfrau (3,1)
+		- Ich kenne die Gerüchte in dem Dorf, größtenteils, weil ich sie selbst gestreut habe. Ich mag Geschenke und bin leicht echauffiert.
+	- Didier, grmpy old man (5,1)
+		- Ich hasse alle Fremdem und vermisse den alten Baron. Er wusste wie man für sich einsteht. Der neue Gerard, der einfach irgendeine Fremde hier geheiratet hat!
+### Der Wald
+- viele große Bäume, natürliche Wege
+- es gibt eine Lichtung, ca. 1 Stunde von Durfort entfernt. Große arkane Kraft gibt es dort!
+	- Jede magische Fertigkeit erhält 1 zusätzlichen Erfolg. 
+	- Für jede Stunde hier muss man 1 Soma oder 1 Wunde erhalten.
+	- Bei Ankunft Wurf: 
+		- 1-3: Lichtung ist leer, aber es gibt Spuren von Wölfen und Knochen. Nach kurzer Zeit kommen 8 schwarze Wölfe.
+		- 4-5: Man sieht dort Greskar und 8 schwarze Wölfe
+		- 6: Iskra ist dort. Tagsüber alleine, nachts mit 4-5 Wölfen
+		- Nachts: füge +2 hinzu
+### Der alte Friedhof
+- verrostete Gatter, steinerne Gräber
+- In der Mitte ist eine verlassene alte Kirche.
+- Ebenso ist hier ein alter Brunnen (man kann hier einen Anhänger finden -> Anastazia gibt Visionen von Elizaveta, wie sie mit roten Händen zum Brunnen geht und versucht sich dort die Hände zu waschen(farbe geht nicht ab)
+- Man sieht viele Spuren von Wölfen. Ebenso Spuren von einem barfüßigen, kleinen Kind. Die Spuren führen tiefer in den Wald (zum Lager)
+- Würfel:
+	- 1-3: 8 Wölfe
+	- 4-5 8 Wölfe+Greskar
+	- 6: 8 Wölfe + Iskra
+	- 5-6 Eine Gruppe Banditen. Ihr Anführer Jozef, ist ein früherer Geliebter von Elizaveta und weiß von ihrer Vergangenheit. Die Gruppe will sich im Dorf ausruhen, aber nicht auffallen.
+### Das Lager der Wölfe
+- Eine große Höhle voller TUnnel und kleiner Räume, weniger als 3 Stunden entfernt. 
+- Tagsüber rasten hier überall Wölfe. Nachts fast leer.
+- Verteidigung: Ohne seinen Geruch zu verbergen, merken sie es früh. Am Anfang jeder Szene muss man einen mittleren Verteidigungswurf schaffen (5), ansonsten nachts 1d6, tags 2d6 Wölfe.
+- Wurf bei jeder Szene ODER in der Reihenfolge:
+	- 1-2 Iskras Lager: Sauber, an der Wand sieht man eine Mutter, wie sie die Hand ihrer Tochter hält, alles in Blut gemalt.
+	- 3-4 Gefangener, gebrochene Beine. Evtl. einer aus dem Dorf?
+	- 5 Lauter Knochen und menschliche Körper
+	- 6  ein langer Tunnel in Richtung der Stadt (Brunnen auf dem Marktplatz)
+	- ![[a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png]]
 # NPCs
 - Anastazia, der Geist (7,3)
 	- Ich ich verteidige Iskra und werde ihre Seele retten
 	- Spirit: Kann nur von Magie Schaden nehmen, kann im Traum erscheinen. (Defense Check oder akzeptieren) 1 Stresswunde, erhält dafür eine Vision von früher oder jetzt
 	- Sie kann Gegenstände bewegen oder auch angreifen. Anastazia wird Leuten, die der Tochter helfen wollen, Erinnerungen schenken
-- Greskar, der böse große Wolf (5,4)
+- Greskar, der böse große Wolf (5,4->3->1)
 	- großer böser Wolf
 	- Ziel: will Menschen fressen uns Iskra schützen
-	- groß wie ein Pferd. Wenn er jemanden packt, kann er jemanden (zusätzlich zur Wunde) herummtragen oder wie eine Puppe verletzen.
+	- groß wie ein Pferd. Wenn er jemanden packt, kann er jemanden (zusätzlich zur Wunde) herumtragen oder wie eine Puppe verletzen.
 	- Einmal pro Szene kann er eine zusätzliche Wunde verursachen.
 	- er erkennt den Geruch einer Person immer und überall wieder, egal ob sie sich tarnen (auch Magie)
-- Red-Hood Iskra
+- Red-Hood Iskra 5,4->2
 	- Ich bin so stark und schnell wie ein Wolf. Ich trage eine Holzmaske, die ich selbst erstellt habe und trage einen roten Umhang, das letzte Geschenk meiner Mutter.
 	- Ziel: Elizaveta umbringen und jeden, der sie verteidigt
 	- Schnell wie ein Wolf: Kann 2 Mal pro Runde agieren.

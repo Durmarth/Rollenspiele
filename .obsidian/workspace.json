@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abenteuer/DSA/Juliankamapgne 1031/2026.03.30.md",
+                "file": "ÄNDERUNGEN GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.03.30"
+              "title": "ÄNDERUNGEN GIT"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7730ad3f8a8142d1",
+  "active": "0852485e4aa43c3d",
   "lastOpenFiles": [
+    "Unbenannt/Unbenannt.md",
+    "Abenteuer/DSA/Juliankamapgne 1031/2026.03.30.md",
     "Unbenannt",
     "Abenteuer/DSA/Juliankamapgne 1031/Backstory.md",
     "Abenteuer/DSA/Juliankamapgne 1031/Brief bzgl. Phextempel.md",
@@ -233,7 +235,6 @@
     "Pasted image 20260412103621.png",
     "Pasted image 20260412103336.png",
     "Pasted image 20260412103222.png",
-    "Dreroco/Tafelrunde.md",
     "Abenteuer/Geh nicht in den Winterwald",
     "Bilder",
     "Meer.pdf",
@@ -241,7 +242,6 @@
     "Abenteuer/Broken Tales/Charaktere",
     "Abenteuer/Broken Tales",
     "CSSsheets/headercolors.css",
-    "CSSsheets",
-    "Abenteuer/DSA/Spielsteinkampagne 1026/Hamar-Spielstein/Spielsteinkampagne - Jahr 1026/Spst Wissen von Hamar/Turnier Weiden 1"
+    "CSSsheets"
   ]
 }

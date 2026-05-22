@@ -110,7 +110,7 @@ Anastazia kontaktiert sie, Vision von Iskra als Kind, wie sie auf einer Lichtung
 	- 3-4 Gefangener, gebrochene Beine. Evtl. einer aus dem Dorf?
 	- 5 Lauter Knochen und menschliche Körper
 	- 6  ein langer Tunnel in Richtung der Stadt (Brunnen auf dem Marktplatz)
-	- ![[a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png]]
+	- 
 # NPCs
 - Anastazia, der Geist (7,3)
 	- Ich ich verteidige Iskra und werde ihre Seele retten
@@ -135,8 +135,11 @@ Anastazia kontaktiert sie, Vision von Iskra als Kind, wie sie auf einer Lichtung
 # In Szenen
 ## Szene 1: Abendbrot mit Gerard Dubois (siehe oben)
 - Ende: Gerard bittet sie beim alten Friedhof zu suchen
+
 ## Szene 2: Der alte Friedhof
 - keine 20 Minuten enfernt. Aufgrund der Angst vor den Wölfen komplett verlassen. Ein rostiges Gatter ist im Weg. Erreichbar über einen alten Weg
+
+
 ## Szene 3a: Stadt informieren
 ## Szene 3b: Den Wölfen folgen
 - dauert einen halben Tag bis zur Wolfshöhle
@@ -150,3 +153,4 @@ Anastazia kontaktiert sie, Vision von Iskra als Kind, wie sie auf einer Lichtung
 - Elizaveta wird die Jäger um hilfe anflehen.
 - Iskra ist bereit für ihre Rache zu sterben.
 - Anastazia (falls eine Verbindung herrscht) wird zeigen wie Anastazia Mutter geworden ist und sie weggeschickt hat.
+![[a24d84b3-aa4d-4850-ac3d-0545dab4cb41.png]]

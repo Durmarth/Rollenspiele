@@ -1,3 +1,9 @@
+Alles Gute für die nächste Erdumrundung!
+Zur Versüßung ein Gutschein für einen Kuchen/Torte deiner Wahl Ergebnis (wird je nach Anforderung unterschiedlich gut sein). 
+Ich bereue die freie Wahl jetzt schon.
+
+
+
 This is your new *vault*.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
